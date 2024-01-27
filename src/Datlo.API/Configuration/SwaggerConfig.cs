@@ -11,7 +11,7 @@ namespace Datlo.API.Configuration
             {
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
-                    Title = "Desafio para Back-end Developer na DoroTech - C# .NET",
+                    Title = "Desafio para Back-end Developer na Datlo - C# .NET",
                     Description = "This API is part of a tech test.",
                     Contact = new OpenApiContact() { Name = "Wictor Huggo", Email = "wh.huggo@gmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/Licenses/MIT") }
